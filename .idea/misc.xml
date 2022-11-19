@@ -3,8 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/DA_android/app/src/main/res/drawable/bgr_time.xml" value="0.2585" />
         <entry key="..\:/DA_android/app/src/main/res/drawable/blue_button.xml" value="0.2595" />
-        <entry key="..\:/DA_android/app/src/main/res/layout/activity_details.xml" value="0.25416666666666665" />
+        <entry key="..\:/DA_android/app/src/main/res/drawable/search_bgr.xml" value="0.2585" />
+        <entry key="..\:/DA_android/app/src/main/res/layout/activity_details.xml" value="0.22592592592592592" />
         <entry key="..\:/DA_android/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
       </map>
     </option>
